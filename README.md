@@ -1,4 +1,3 @@
-# 
 # **Birgit Samer**
 # _Stammdaten_
 * Adresse: 
