@@ -1,4 +1,4 @@
-# HSamer-2.github.io
+# 
 # **Birgit Samer**
 # _Stammdaten_
 * Adresse: 
@@ -8,4 +8,4 @@
 # _Ausbildung_
 * Handelsakademie:  HAK Grazbachgasse
 * Bachelar-Studium:  Medienmanangement - FH St. Pölten
-* MAsterstudium:  Journalismus _ FH WIen
+* Masterstudium:  Journalismus _ FH WIen
