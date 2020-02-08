@@ -6,6 +6,6 @@
   * telefon: 0664 1386710
   * e-mail:  birgit.samer-ged@aon.at
 # _Ausbildung_
-* HAK Grazbachgasse
-* Medienmanangement - FH St. Pölten
-* Journalismus _ FH WIen
+* Handelsakademie:  HAK Grazbachgasse
+* Bachelar-Studium:  Medienmanangement - FH St. Pölten
+* MAsterstudium:  Journalismus _ FH WIen
