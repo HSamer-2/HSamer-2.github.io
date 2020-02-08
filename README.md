@@ -3,6 +3,8 @@
 
 ! (Foto (https://asset3.torial.com/system/users/profile_images/52498/medium/Samer_Birgit_038R13x18.jpg?1527348681)
 
+! (https://twitter.com/birgit_sa?lang=gu)
+
 # **Birgit Samer**
 # _Stammdaten_
 * Adresse: 
