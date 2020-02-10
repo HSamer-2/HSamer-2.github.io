@@ -1,6 +1,5 @@
 # HSamer-2.github.io
 
-![Foto](https://asset3.torial.com/system/users/profile_images/52498/medium/Samer_Birgit_038R13x18.jpg?1527348681)
 
 ![Foto](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbirgit.samer%2Fphotos)
 
