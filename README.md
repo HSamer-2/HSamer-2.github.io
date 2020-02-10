@@ -5,6 +5,9 @@
 
 !(https://twitter.com/birgit_sa?lang=gu)
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
 # **Birgit Samer**
 # _Stammdaten_
 * Adresse: 
