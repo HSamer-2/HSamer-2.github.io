@@ -2,7 +2,7 @@
 
 ![Foto](https://asset3.torial.com/system/users/profile_images/52498/medium/Samer_Birgit_038R13x18.jpg?1527348681)
 
-![Foto](https://twitter.com/birgit_sa?lang=gu)
+**![Foto](https://twitter.com/birgit_sa?lang=gu)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
