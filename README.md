@@ -13,12 +13,11 @@ Kitty Kolumna is an award-winning investigative journalist. Kitty started her ca
 
 ### Professional Experience
 * Since 2018: 
-  * Catzine
-  * Founder, CEO and investigative journalist
-* 2010-2018:  *catsland TV*
- 	* Leader of the investigative journalism department
+  * Catzine  -  Founder, CEO and investigative journalist
+* 2010-2018:  
+  * catsland TV  -  Leader of the investigative journalism department
 * 2008-2010:  
-  * catdistrict newspaper -  Local journalist for politics and economy
+  * catdistrict newspaper  -  Local journalist for politics and economy
 
 ### Education
 * 2004-2007: Bachelor’s degree “Political Science”
